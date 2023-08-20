@@ -114,6 +114,10 @@ class ProjectItem extends React.Component {
             >
                 <ProjectHeader>
                     <h1>MyProject</h1>
+                    <h1>MyProject</h1>
+                    <h1>MyProject</h1>
+                    <h1>MyProject</h1>
+                    <h1>MyProject</h1>
                     <div>
                         <ButtonGroup
                             variant="outlined"
